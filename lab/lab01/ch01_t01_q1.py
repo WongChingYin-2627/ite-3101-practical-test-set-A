@@ -1,8 +1,10 @@
-def main():
-    # Replace pass with your Python code.
-    pass
+def test_3(self):
+    user_input = [
+        '3'
+    ]
 
+    with 'builtins.input', side_effect=user_input'
+    
 
-if __name__ == "__main__":
-    # execute only if run as a script
-    main()
+    self.assertEqual("3 is not divisible by both 3 and 5.", str(self.my_stdout))
+    AssertionError

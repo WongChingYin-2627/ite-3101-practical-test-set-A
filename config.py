@@ -1,2 +1,2 @@
-API_KEY = "AIzaSyC3O3lCqzc4NkOxL2SGSnw7YynrUf3jF2I"
+API_KEY = AIzaSyBO71UboXeeLA-r0BMW8u0P91QwjnbKiUs
 API_ENDPOINT = 'https://gateway-cacz82me.ue.gateway.dev'
